@@ -1,3 +1,11 @@
+# Jack's First CS193 Homework
+
+Favorite Things About CS193:
+
+- They teach you about Linux! I already use exclusively Linux on my school computer and this class will provide me with the opportunity to show it off. Also, it's just cool.
+- No exams! Personally I don't mind exams but hey, I'll take a free pass if I get one.
+- Gives me a reason to walk across campus a second time on Tuesday. Otherwise, I would probably just stay in the dorm all day and become depressed :/
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
